@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="so fino.cpp" />
+    <ClCompile Include="ktlt.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{678A06DA-90A7-43D5-A4F9-CD34DD7522C0}</ProjectGuid>

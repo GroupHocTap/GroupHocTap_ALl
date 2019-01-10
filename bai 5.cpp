@@ -37,8 +37,8 @@ int inputNum()
 bool checkF (int nN)
 {
 int f2 = 1;
-		int f1 = 0;
-		fi = f2;
+		int fi = 0;
+		fi= f2;
 		for (int i = 1; i <= nN; i++)
 		{
 	cout << fi << " ";
